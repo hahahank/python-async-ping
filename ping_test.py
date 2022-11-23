@@ -1,7 +1,7 @@
 
 import time
 import asyncio
-import subprocess
+#import subprocess
 import platform
 import re
 
